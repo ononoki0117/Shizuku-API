@@ -443,4 +443,12 @@ public class DemoActivity extends Activity {
         }
         binding.text3.setText(res.toString().trim());
     }
+
+    private void startScreenRecord() {
+
+    }
+
+    private void stopScreenRecord() {
+
+    }
 }
